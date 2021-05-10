@@ -3,6 +3,16 @@
 
 It is about displaying the frequency and the duration of particular USER based on category for different time periods.
 
+<b><h4>
+Folder Contents:
+</h4></b>
+<ul>
+<li> <b> Resources </b> </li> <p> It contains all the inut and output folders</p>
+<li> <b> Config </b> </li> <p> It contains Configuration file </p>
+<li> <b> Unit Testing </b> </li> <p> It contains unit testing file</p>
+<li> <b> SRC </b> </li> <p> It contains all the main files</p>
+</ul>
+
 
 <b><h4>
 File Contents:
